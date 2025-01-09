@@ -2,6 +2,7 @@
   "name": "myai",
   "version": "1.0.0",
   "description": "Creating my own personal AI from OpenAI ",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "dev": "node script.js"
