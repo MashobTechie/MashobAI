@@ -1,0 +1,15 @@
+{
+  "name": "myai",
+  "version": "1.0.0",
+  "description": "Creating my own personal AI from OpenAI ",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node script.js"
+  },
+  "author": "MashobTechie",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "openai": "^4.77.4"
+  }
+}
